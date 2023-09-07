@@ -1,0 +1,8 @@
+There is some commands:
+
+
+.commands - shows this text
+.hello - bot will greet you
+.physic0 - shows first physic formulas list
+.physic1 - shows second physic formulas list
+.wg - send random female anime character pick 

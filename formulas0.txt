@@ -1,0 +1,74 @@
+Basic Physics Formula
+Some basic but very important Physics formula is given below:
+
+1) Average Speed Formula:
+The average speed is the average of speed of a moving body for the overall distance that it has covered.
+
+S = dt
+Where,
+
+S	Average speed
+d	Total distance traveled
+t	Total time is taken
+
+
+
+2) Acceleration Formula:
+Acceleration is defined as the rate of change in velocity to the change in time. It is denoted by symbol a.
+
+a =v−ut
+
+where,
+
+a	Acceleration
+v	Final Velocity
+u	Initial Velocity
+t	Time taken
+
+
+
+3) Density Formula:
+The density of material shows the denseness of it in a specific given area.
+
+ρ=mV
+
+Where,
+
+ρ	Density
+m	Mass of the body
+V	The volume of the body
+
+
+
+ 4) Newton’s Second Law:
+According to Newton’s second law of motion, the force can be expressed by the product of mass and acceleration of the body.
+
+F = m ×  a
+
+Where,
+
+F	Force
+m	Mass of the body
+a	Acceleration in velocity available
+
+
+
+5) Power Formula:
+The capacity to do some work is termed as Energy. The Energy spent to do work in a unit amount of time is termed as Power.
+
+P=Wt
+
+Where,
+
+P	Power
+W	Work done
+t	Time taken
+
+
+
+
+
+
+
+
+

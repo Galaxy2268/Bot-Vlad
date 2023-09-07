@@ -1,0 +1,66 @@
+
+6) Weight Formula:
+Weight is not anything but the force which an object experiences due to gravity.
+
+W=mg
+
+Where,
+
+W	Weight
+m	Mass of the body
+g	Acceleration due to gravity
+
+
+
+7) Pressure Formula:
+The pressure is defined as the amount of force applied per unit area of the object.
+
+P=FA
+
+Where,
+
+P	Pressure
+F	Force applied
+A	Total Area of the object
+
+
+
+8) Kinetic Energy formula:
+Kinetic energy is the energy that is possessed by a body due to its state of motion.
+
+E = 12mv2 
+
+Where,
+
+E	Kinetic Energy
+m	Mass of the body
+v	The velocity with which the body is traveling
+
+
+
+ 9) Ohms Law Formula:
+Ohms law says that the current running through some conductor material is directly proportional to the potential difference between two endpoints of the conductor.
+
+V= I × R
+
+Where,
+
+V	Voltage measured in Volts
+I	Electric current flowing through the conductor in amperes.
+R	The resistance of the material in ohms.
+
+
+
+10) Frequency Formula:
+Frequency is the revolutions completed per second or as the number of wave cycles.
+
+f= Vλ
+
+Where,
+
+f	Frequency of the wave
+V	Velocity or wave speed
+λ	The wavelength of the wave
+
+
+
