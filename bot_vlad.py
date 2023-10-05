@@ -27,13 +27,13 @@ async def hello(ctx):
 
 # .physics0
 @client.command(pass_context=True)
-async def physic0(ctx):
+async def physics0(ctx):
     await ctx.send(f'```{"".join(open("formulas0.txt", "r", encoding="utf8").readlines())}```')
 
 
 # .physics1
 @client.command(pass_context=True)
-async def physic1(ctx):
+async def physics1(ctx):
     await ctx.send(f'```{"".join(open("formulas1.txt", "r", encoding="utf8").readlines())}```')
 
 
